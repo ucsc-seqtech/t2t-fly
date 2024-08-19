@@ -51,10 +51,12 @@ A2 **
 ## **Downloads**
 
 All generated sequencing data and assemblies are available for browsing and download from [https://www.genomeark.org/](https://www.genomeark.org/) \
- \
-ISO1: [S3 File Index](https://genomeark.s3.amazonaws.com/index.html?prefix=species/Drosophila_melanogaster/idDroMela1/)    [S3 Interactive Viewer](https://42basepairs.com/browse/s3/genomeark/species/Drosophila_melanogaster/idDroMela1) \
- \
-A2: [S3 File Index](https://genomeark.s3.amazonaws.com/index.html?prefix=species/Drosophila_melanogaster/idDroMela2/)   [S3 Interactive Viewer](https://42basepairs.com/browse/s3/genomeark/species/Drosophila_melanogaster/idDroMela2) \
+
+
+ISO1: [S3 File Index](https://genomeark.s3.amazonaws.com/index.html?prefix=species/Drosophila_melanogaster/idDroMela1/) &nbsp; &nbsp; [S3 Interactive Viewer](https://42basepairs.com/browse/s3/genomeark/species/Drosophila_melanogaster/idDroMela1) 
+
+A2: &nbsp; [S3 File Index](https://genomeark.s3.amazonaws.com/index.html?prefix=species/Drosophila_melanogaster/idDroMela2/) &nbsp; &nbsp; [S3 Interactive Viewer](https://42basepairs.com/browse/s3/genomeark/species/Drosophila_melanogaster/idDroMela2) 
+
 
 
 **Sample preparation**
