@@ -50,8 +50,13 @@ A2 **
 
 ## **Downloads**
 
-All generated sequencing data and assemblies are available for browsing and download from [we can propose to use the genomeark AWS public bucket] \
+All generated sequencing data and assemblies are available for browsing and download from [https://www.genomeark.org/](https://www.genomeark.org/) \
  \
+ISO1: [S3 File Index](https://genomeark.s3.amazonaws.com/index.html?prefix=species/Drosophila_melanogaster/idDroMela1/)    [S3 Interactive Viewer](https://42basepairs.com/browse/s3/genomeark/species/Drosophila_melanogaster/idDroMela1) \
+ \
+A2: [S3 File Index](https://genomeark.s3.amazonaws.com/index.html?prefix=species/Drosophila_melanogaster/idDroMela2/)   [S3 Interactive Viewer](https://42basepairs.com/browse/s3/genomeark/species/Drosophila_melanogaster/idDroMela2) \
+
+
 **Sample preparation**
 
 **Simplex - **High molecular weight DNA was extracted from A2 embryos (15-18hr) using a protocol adapted from methods provided by the Karpen Lab at UC Berkeley and Inswasti Cahyani et al. (dx.doi.org/10.17504/protocols.io.bxgnpjve). Embryos were homogenized with a pellet pestle in a homogenization buffer (30mM Tris-HCl pH 8, 100mM NaCl, 10mM EDTA, 0.5% Triton x-100). The homogenate was centrifuged, and the pellet was resuspended in Tris Lysis Buffer (100 mM NaCl, 10 mM Tris-HCl, pH 8, 25 mM EDTA, pH 8, 0.5% (w/v) SDS) and treated with Proteinase K and RNase A. DNA was then extracted using phenol-chloroform extraction method. Precipitation of DNA was achieved with 3 volumes of ethanol, along with a final concentration of 100 mM NaCl and 500 mM NaAc. Wide-bore pipet tips were used for all steps in the protocol to reduce DNA shearing. Nanodrop and Qubit measurements were taken to assess quality and quantity of DNA respectively. Small DNA fragments were removed from the sample using PacBio SRE kit (SKU 102-208-300) and the size of DNA fragments were analyzed on Agilent Femto Pulse System using genomic DNA 165 kb kit (FP-1002-0275).
