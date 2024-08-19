@@ -35,7 +35,7 @@ All data is released to the public domain ([CC0](https://creativecommons.org/pub
 
 
 ## HiC data 
-**A2**
+
 
 
 ## **Downloads**
