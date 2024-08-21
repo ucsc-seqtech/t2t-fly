@@ -70,7 +70,7 @@ Please reference the GenomeArk [aws cli primer](https://www.genomeark.org/docume
 
 ## **Contact**
 
-For any problems related to this dataset, please raise [issues](https://github.com/ucsc-seqtech/t2t-fly/issues) on this GitHub repository. For general questions regarding the project, please contact [Ivo Violich](iviolich@ucsc.edu) . More information about our consortium can be found on the [T2T homepage](https://sites.google.com/ucsc.edu/t2tworkinggroup/).
+For any problems related to this dataset, please raise [issues](https://github.com/ucsc-seqtech/t2t-fly/issues) on this GitHub repository. For general questions regarding the project, please contact [Ivo Violich](mailto:iviolich@ucsc.edu) . More information about our consortium can be found on the [T2T homepage](https://sites.google.com/ucsc.edu/t2tworkinggroup/).
 
 
 ## **History**
