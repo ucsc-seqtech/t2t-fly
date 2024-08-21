@@ -30,7 +30,7 @@ One Revio flowcell with 98Gb of HiFi data.  HiFi reads are available in bam form
 
 Three nanopore flowcells.  Data is available in bam and fastq format.  Raw fast5 data are also available.
 
-**A2**  \
+**A2**  
 
 Four Nanopore flowcells for a total of 320Gb of data.  Data is available in bam format.  Raw fast5 or pod5 data are also available.
 
