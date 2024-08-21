@@ -65,7 +65,7 @@ A2: &nbsp; [S3 File Index](https://genomeark.s3.amazonaws.com/index.html?prefix=
 
 ### **Notes on downloading files**
 
-Files are generously hosted by Amazon Web Services under `s3://[needed]`. Although available as HTTP links above, download performance is improved by using the Amazon Web Services [command-line interface](https://aws.amazon.com/cli/). References should be amended to use the `s3://` addressing scheme. Amending the `max_concurrent_requests` etc. settings as per [this guide](https://docs.aws.amazon.com/cli/latest/topic/s3-config.html) will improve download performance further.
+Please reference the GenomeArk [aws cli primer](https://www.genomeark.org/documentation/aws-cli-primer.html) for help with downloads.  Access/permission issues may be resolved with the `--no-sign-request` option.
 
 
 ## **Contact**
