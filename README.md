@@ -37,16 +37,18 @@ Four Nanopore flowcells for a total of 320Gb of data.  Data is available in bam 
 
 ## HiC data 
 
+**ISO1**
 
+Omni-C data is available for ISO1.  
 
 ## **Downloads**
 
 All generated sequencing data and assemblies are available for browsing and download from [GenomeArk](https://www.genomeark.org/)
 
 
-ISO1: [S3 File Index](https://genomeark.s3.amazonaws.com/index.html?prefix=species/Drosophila_melanogaster/idDroMela1/) &nbsp; &nbsp; [S3 Interactive Viewer](https://42basepairs.com/browse/s3/genomeark/species/Drosophila_melanogaster/idDroMela1) 
+ISO1 (idDroMela1):   [S3 File Index](https://genomeark.s3.amazonaws.com/index.html?prefix=species/Drosophila_melanogaster/idDroMela1/) &nbsp; &nbsp; [S3 Interactive Viewer](https://42basepairs.com/browse/s3/genomeark/species/Drosophila_melanogaster/idDroMela1) 
 
-A2: &nbsp; [S3 File Index](https://genomeark.s3.amazonaws.com/index.html?prefix=species/Drosophila_melanogaster/idDroMela2/) &nbsp; &nbsp; [S3 Interactive Viewer](https://42basepairs.com/browse/s3/genomeark/species/Drosophila_melanogaster/idDroMela2) 
+A2 (idDroMela2): &nbsp;   [S3 File Index](https://genomeark.s3.amazonaws.com/index.html?prefix=species/Drosophila_melanogaster/idDroMela2/) &nbsp; &nbsp; [S3 Interactive Viewer](https://42basepairs.com/browse/s3/genomeark/species/Drosophila_melanogaster/idDroMela2) 
 
 
 
