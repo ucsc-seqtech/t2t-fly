@@ -52,13 +52,13 @@ A2 (idDroMela2): &nbsp;   [S3 File Index](https://genomeark.s3.amazonaws.com/ind
 
 
 
-## ** ONT Sample preparation**
+## **ONT Sample preparation**
 
 **Simplex** High molecular weight DNA was extracted from A2 embryos (15-18hr) using a protocol adapted from methods provided by the Karpen Lab at UC Berkeley and Inswasti Cahyani et al. (dx.doi.org/10.17504/protocols.io.bxgnpjve). Embryos were homogenized with a pellet pestle in a homogenization buffer (30mM Tris-HCl pH 8, 100mM NaCl, 10mM EDTA, 0.5% Triton x-100). The homogenate was centrifuged, and the pellet was resuspended in Tris Lysis Buffer (100 mM NaCl, 10 mM Tris-HCl, pH 8, 25 mM EDTA, pH 8, 0.5% (w/v) SDS) and treated with Proteinase K and RNase A. DNA was then extracted using phenol-chloroform extraction method. Precipitation of DNA was achieved with 3 volumes of ethanol, along with a final concentration of 100 mM NaCl and 500 mM NaAc. Wide-bore pipet tips were used for all steps in the protocol to reduce DNA shearing. Nanodrop and Qubit measurements were taken to assess quality and quantity of DNA respectively. Small DNA fragments were removed from the sample using PacBio SRE kit (SKU 102-208-300) and the size of DNA fragments were analyzed on Agilent Femto Pulse System using genomic DNA 165 kb kit (FP-1002-0275).
 
 **Duplex** High molecular weight DNA was extracted from A2 embryos using the protocol described for simplex sample preparation listed previously. Isolated DNA was then sheared using Diagenode Megaruptor 3, DNA fluid+ kit (E07020001). The size of sheared DNA fragments were analyzed on Agilent Femto Pulse System using genomic DNA 165 kb kit (FP-1002-0275). Fragment size distribution of post-sheared DNA had peak at approximately 50kb. Small DNA fragments were removed from the sample using PacBio SRE kit (SKU 102-208-300). 
 
-## ** ONT Sequencing Protocols**
+## **ONT Sequencing Protocols**
 
 **Simplex** Initial libraries were prepared using ONT Ultra Long library kit (SQK-ULK114) but resulted in low pore occupancy and yields. To improve throughput, library preparation was carried out using Oxford Nanopore Technologies (ONT) ligation sequencing kit V14 (SQK-LSK114) and sequenced on R10.4.1 flow cells. Three libraries were prepared per flow cell. Flow cells were washed using ONT wash kit (EXP-WSH004) and reloaded with a fresh library every 24 hours for a total sequencing runtime of 72 hours. Basecalling was done with using [dorado](https://github.com/nanoporetech/dorado) v0.7.3 and the super accurate (sup) model v5.0.0.  5mCG_5hmCG methylation was also called.  Calling modifications does not affect basecalling and can be ignored or dropped if not needed.  
 
